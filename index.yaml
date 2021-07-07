@@ -1,0 +1,13 @@
+course:
+  name: "WDFT"
+  number: MASTER
+  version: "5.1"
+  chapter:
+    - name: "test"
+      sequential:
+        - name: "test"
+          vertical:
+            - name: "test"
+              component:
+                - type: html
+                  file: ""
