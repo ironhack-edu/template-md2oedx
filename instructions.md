@@ -1,6 +1,6 @@
-1. paste the lesson in the markdown format you want to convert
-2. you don't have to change the structure of the yaml file
-3. run the following command:
+1. Paste the lesson in the markdown format you want to convert
+2. You don't have to change the structure of the yaml file
+3. Run the following command:
 
 ```shell
 $ npm install -g md2oedx
@@ -9,13 +9,13 @@ $ md2oedx ./index.yaml ./lmsexport
 
 <small>Here is the link to the md2oedx npm package: [https://www.npmjs.com/package/md2oedx](https://www.npmjs.com/package/md2oedx)</small>
 
-4. open the zipped folder created in the previous step and unzip it with a double-click
+4. Open the zipped folder created in the previous step and unzip it with a double-click
 
 ```shell
 $ open .
 ```
 
-5. find the html subfolder and inside the `lesson.html` file - this is formatted lesson ready to be copied into studio
+5. Find the html subfolder and inside the `lesson.html` file - this is formatted lesson ready to be copied into studio
 
 ---
 
